@@ -15,6 +15,7 @@ public class CountAndSay {
 		if(n == 1) {
 			return "1";
 		}
+		//不需要每次递归带着本次结果
 		StringBuilder result = new StringBuilder();
 		// 21
 		char[] arr = dfs(n - 1).toCharArray();
