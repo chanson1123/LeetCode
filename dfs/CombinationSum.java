@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// every element can be used multiple times
 public class CombinationSum {
 
 	public static void main(String[] args) {
