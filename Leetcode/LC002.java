@@ -3,7 +3,7 @@ package Leetcode;
 public class LC002 {
 	
 	public static void main(String[] args) {
-		
+		//create new code branch, solve the merge issue: git checkout master branch(receive part), git merge 2023_Nov, solve the issue, git add,merge,push
 	}
 	
 	static class ListNode{
