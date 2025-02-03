@@ -1,6 +1,7 @@
 package Leetcode;
 
 public class LC032 {
+	//binary search：排序好的部分可以拆分
 	public int search(int[] nums, int target) {
 		int left = 0;
 		int right = nums.length-1;
