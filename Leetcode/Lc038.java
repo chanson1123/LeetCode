@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class Lc038 {
+public class LC038 {
 	//array的四类index操作
 	//两头index夹的子类：binary search
 	//一头index记录长度/计数分两类：和自己前后比设一个count；设两个index i,j相减得到长度。
